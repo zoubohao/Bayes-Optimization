@@ -1,2 +1,2 @@
 # Bayes-Optimization
-Bayes optimization FOR SVD decomposition
+Bayes optimization for SVD decomposition
